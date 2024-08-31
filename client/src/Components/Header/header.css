@@ -1,0 +1,55 @@
+.header{
+        position: fixed !important;
+        z-index: 1;
+        width:100%;
+}
+
+::placeholder{
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    color:black !important;
+}
+
+
+/*---Header---*/
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background: #ffff !important;
+    background-color: #ffff !important;
+    color:#373737 !important;
+}
+
+input.MuiInputBase-input.css-yz9k0d-MuiInputBase-input{
+    margin-left: -35px !important;
+}
+
+.signin:hover, .cart:hover{
+    background-color: none !important;
+    background: none !important;
+}
+
+/*------MODAL LOGIN PAGE -----*/
+
+.form-label{
+    margin-bottom:3px !important;
+    font-family:'Mulish,sans-serif';
+    font-weight:400;
+    color:#9e9e9e;
+    font-size:14px;
+}
+
+.mb-1{
+    border:none;
+    border-color:#9e9e9e !important;
+}
+.login-button{
+    background-color:rgb(37, 165, 65) !important;
+    color:#ffff;
+    font-size:14px;
+    font-weight:700;
+    width:350px;
+    border-color: #25a541 !important;
+}
+.login-button:hover{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+}

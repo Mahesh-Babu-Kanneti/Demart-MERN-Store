@@ -1,0 +1,43 @@
+.accordion{
+    width:220px !important;
+}
+
+.accordion-button::after{
+    visibility:hidden !important;
+}
+.accordion-body{
+    width:50px !important;
+}
+.accordion-button{
+    background-color: #ffff !important;
+}
+
+.accordion-item{
+    border-radius:0px !important;
+}
+
+
+
+.accordion-button{
+    font-size:13px !important;
+}
+
+
+                    /*-----Side-Nav-Items----*/
+
+.side-nav-label{
+    color:rgb(37, 165, 65) !important;
+    font-weight: bolder !important;
+    font-size: 14px !important;
+}
+
+
+
+
+
+
+.product-list{
+    border:1px solid #d3d3d3 !important;
+    border-radius:4px !important;
+    width:265px !important;
+}

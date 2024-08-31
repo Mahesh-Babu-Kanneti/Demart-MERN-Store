@@ -1,0 +1,97 @@
+.carousel-control-prev-icon, .carousel-control-next-icon, .carousel-indicators{
+    display:none !important;
+}
+
+
+/*---Container slider ----*/
+
+.indicate .carousel-control-next-icon{
+    display:block !important;
+    border: 1px solid #d3d3d3 !important;
+    box-shadow: -1px 1px 2px #d3d3d3 !important;
+    height:60px;
+    width:35px;
+    margin-left: 185px !important;
+    background-color: rgb(37, 165, 65);
+}
+.indicate .carousel-control-prev-icon{
+    display:block !important;
+    border: 1px solid #d3d3d3 !important;
+    box-shadow: -1px 1px 2px #d3d3d3 !important;
+    height:60px;
+    width:35px;
+    margin-right: 185px !important;
+    background-color: rgb(37, 165, 65);
+}
+
+.carousel-control-prev{
+    margin:auto !important;
+    display: inline-table !important;
+}
+
+.carousel-control-next{
+    margin:auto 12px auto auto !important;
+    display: inline-table !important;
+}
+
+
+
+
+
+.banner:hover{
+    cursor: pointer;
+}
+
+
+
+
+                                        /*------Homepage-body------*/
+
+.home-body{
+    background: #f3f3f3;
+}
+
+
+
+
+
+/*---container-1-----*/
+.container-section{
+    margin:25px;
+    border:1px solid #d3d3d3 !important;
+    border-radius: 3px !important;
+}
+
+.container-body{
+    margin:0px !important;
+    padding:0px !important;
+}
+
+.container-body img{
+    width:100%;
+}
+
+
+        /*------Products Card ------*/
+.products-card{
+    margin-right: 12px;
+    border:1px solid #d3d3d3 !important;
+    border-radius:4.5px !important;
+}
+
+.products{
+    height:136px;
+    width:136px !important;
+    margin:20px auto;
+    transition: transform 0.4s; /* Animation */
+}
+.products:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.cart-button:hover{
+    cursor: pointer !important;
+    opacity: 0.8 !important;
+    box-shadow: -1px 1px 10px #d3d3d3;
+}

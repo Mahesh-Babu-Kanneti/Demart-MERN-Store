@@ -1,0 +1,10 @@
+.footer.card{
+    text-align: center;
+    font-weight: 400;
+    color:#373737;
+    height:auto;
+    width:auto;
+    font-size: 12px;
+    border-radius: 0px !important;
+    /* margin-top: 15px; */
+}

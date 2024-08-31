@@ -1,0 +1,98 @@
+.container-section{
+    margin:25px;
+    border:1px solid #d3d3d3 !important;
+    border-radius: 3px !important;
+    height:auto !important;
+    width:90% !important;
+    margin:auto !important;
+    padding:25px !important;
+}
+
+
+
+.container-section2{
+    margin:25px;
+    border:none !important;
+    border-radius: 3px !important;
+    height:auto !important;
+    width:90% !important;
+    margin:auto !important;
+    padding:25px !important;
+}
+
+
+
+.container-body{
+    margin:8px;
+}
+
+.container-body img{
+    width:100%;
+}
+
+        /*------Products Card ------*/
+        .products-card{
+            margin-right: 12px;
+            border:1px solid #d3d3d3 !important;
+            border-radius:4.5px !important;
+        }
+
+
+        .products{
+            height:200px!important;
+            width:200px !important;
+            margin: 20px auto;
+            transition: transform 0.4s; /* Animation */
+        }
+        .products:hover{
+            cursor: pointer;
+            transform: scale(1.1);
+        }
+
+
+
+        .cart-button:hover{
+            cursor: pointer !important;
+            opacity: 0.8 !important;
+            box-shadow: -1px 1px 10px #d3d3d3;
+        }
+
+
+
+        /*------Products View ------*/
+        .products-view{
+            margin-right: 12px;
+            border:none !important;
+            border-right:1px solid #d3d3d3 !important;
+            border-radius:0px !important;
+        }
+
+
+        /*----PRODUCT IMAGE -VIEW*/
+
+        .product-view{
+            height:250px!important;
+            width:250px !important;
+            margin: 20px auto;
+            transition: transform 0.4s; /* Animation */
+        }
+        .product-view:hover{
+            cursor: pointer;
+            transform: scale(1.1);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+        .img.card-img-top.products{
+            padding:0px !important;
+            margin:50px 150px !important;
+        }
